@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JavaScript-projects-react-tailwind/static/css/main.347a91f5.css",
+    "main.js": "/JavaScript-projects-react-tailwind/static/js/main.845e1844.js",
+    "index.html": "/JavaScript-projects-react-tailwind/index.html",
+    "main.347a91f5.css.map": "/JavaScript-projects-react-tailwind/static/css/main.347a91f5.css.map",
+    "main.845e1844.js.map": "/JavaScript-projects-react-tailwind/static/js/main.845e1844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.347a91f5.css",
+    "static/js/main.845e1844.js"
+  ]
+}
